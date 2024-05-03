@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu_container {
+    background-color: #151515;
+    height: 100vh;
+}
+
+.menu_pizza {
+    max-width: 1520px;
+    background-color: #151515;
+    margin: 0 auto;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu_text {
+    font-family: Kaushan Script;
+    font-size: 100px;
+    font-weight: 400;
+    text-align: center;
+    color: #FF8C42;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 20px;
+}
+
+.Pizza-slice1 {
+    margin-top: 50px;
+}
+
+.img3 {
+    width: 300px;
+}
+
+.text1 {
+    font-family: Kosugi;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    color: #FFDDC8;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.box {
+    display: flex;
+    gap: 150px;
+}
+
+.menu_title {
+    width: 650px;
+    font-family: Kosugi;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    color: #FFDDC8;
+}
+
+
+.gormet_text1 {
+    font-family: Kosugi;
+    font-size: 24px;
+    font-weight: 400;
+    color: #FFDDC8;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.gormet_title {
+    width: 250px;
+    font-family: Kosugi;
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFDDC8;
+
+}
+
+.sarlavha {
+    font-family: Kosugi;
+    font-size: 32px;
+    font-weight: 400;
+    color: #FFDDC8;
+    margin-bottom: 20px;
+
+}
+
+.menu_gormet_text {
+    margin-top: 15px;
+    width: 500px;
+}
+
+.menu_right {
+    margin-top: 10px;
+}
+
+.quti {
+    display: flex;
+    gap: 150px;
+}
+
+.btn {
+    font-family: Kosugi;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    width: 230px;
+    height: 50px;
+    margin: 20px;
+    color: #FFDDC8;
+    background-color: #FF8C42;
+}
